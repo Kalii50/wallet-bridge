@@ -1,4 +1,4 @@
-# Wallet Bridge
+kalymc91@gmail.com# Wallet Bridge
 
 > **Warning** This project is still in early alpha.
 
