@@ -1,4 +1,4 @@
-kalymc91@gmail.com# Wallet Bridge
+kalymc91@gmail.com# Wallet 0xa921bc3e0f67c31cb446b319a387fa523a8122f1 Bridge
 
 > **Warning** This project is still in early alpha.
 
